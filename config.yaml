@@ -1,0 +1,5 @@
+Postgres:
+  host: 127.0.0.1
+  dbname: ordermanagementsystem
+  user: postgres
+  password: Ashutosh181094@
